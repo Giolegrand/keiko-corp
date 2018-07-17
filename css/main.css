@@ -585,7 +585,7 @@ a.app_link{
 	font-size: 14px;
 }
 
-.#tslider{
+#tslider{
 	text-align: center!important;
 	position: relative!important;
 }
@@ -671,6 +671,7 @@ a.app_link{
 	border: 0;
 	outline: none;
 	margin-right: -4px;
+	marggin-top: -1px;
 	color: #41c17d;
 	font-family: "open_regular", Helvetica, Arial, sans-serif;
 	font-size: 14px;
